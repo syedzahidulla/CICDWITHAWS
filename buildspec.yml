@@ -24,7 +24,7 @@ artifacts:
     - .next/**/*
     - pages/**/*
     - styles/**/*
-    - public/**/*
+    - static/**/*
     - package.json
     - next.config.js
     - tsconfig.json
